@@ -26,3 +26,12 @@ BankAccount = Bank(nameInput,depositInput)
 
 BankAccount.InsertMoney(amountInput)
 BankAccount.withdraw(cashoutInput)
+class Hey:
+    def Nah():
+        return "Hey Bro"
+    
+    def Hacked(Nah):
+        return "Gimme $5000 or i hack ur PC"
+    
+hackerz = Hey()
+print(hackerz.Hacked())
